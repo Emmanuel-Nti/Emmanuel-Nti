@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Emmanuel Nti.
+https://github.com/Emmanuel-Nti/Business-Metrics-of-Yandex-Afisha/blob/master/docs/images/nti.PNG
+-  👋 Hi, I’m Emmanuel Nti.
 - 👀 I’m interested in everything data.
 - 🌱 I have recently graduated from a 9-month intensive Data Analysis training with [Practicum100 by Yandex](https://www.practicum100.com/) where I independently and collaboratively completed numerous hands-on and insightful projects on statistical data analysis, video games analysis, A/B testing, KPI analysis, etc., using Python, SQL, MS Office, and Tableau. I'm also a master's graduate in economics with a postgraduate diploma in data science. I am as well a Chartered Financial Economist :)
 - 📈 I have worked as a data assistant, quality control assistant, banker, and revenue officer.
