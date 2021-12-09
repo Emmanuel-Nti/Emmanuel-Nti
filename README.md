@@ -1,10 +1,11 @@
 ![nti](https://user-images.githubusercontent.com/51451027/143777025-8bd5d860-7b1f-4694-b2de-232d94b2bdaa.PNG)
--    👋 Hi, I’m Emmanuel Nti.
-- 👀 I’m interested in everything data.
-- 🌱 I have recently graduated from a 9-month intensive Data Analysis training with [Practicum100 by Yandex](https://www.practicum100.com/) where I independently and collaboratively completed numerous hands-on and insightful projects on statistical data analysis, video games analysis, A/B testing, KPI analysis, etc., using Python, SQL, MS Office, and Tableau. I'm also a Chartered Financial Economist and a master's graduate in economics with a postgraduate diploma in data science.
-- 📈 I have worked as a data assistant, quality control assistant, banker, and revenue officer.
-- 💞️ I’m looking forward to my next challenge :) 
-- 📫 Contact me via my email: ntioes@gmail.com
+- 👋 Hi, I’m Emmanuel Nti.
+- 👀 I’m a self-motivated, detail-oriented, team player, and ambitious young man fascinated by numbers, enthusiastic about everything data, and passionate to learn new things.
+- 🌱 I have recently graduated from a 9-month intensive Data Analysis training by Yandex. I'm also a master's graduate in Economics with a postgraduate diploma in Applied Data Science and a Chartered Financial Economist.
+- 📈 I have worked as a data assistant, quality control assistant, banker, and revenue officer. I have worked with or have knowledge in software and tools for data projects, visualization, and dashboard creation such as Python, SQL, MS Office, Tableau, Git, Stata, HTML, CSS, EViews, and SAP. 
+- 📊 Eager to help businesses make smarter decisions and grow their business by turning complex datasets into valuable insights.
+- 💞️ Looking forward to my next challenge :) 
+
 
 <!---
 Emmanuel-Nti/Emmanuel-Nti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
