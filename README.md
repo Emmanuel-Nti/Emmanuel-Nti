@@ -1,3 +1,4 @@
+~~~~python
 ![nti](https://user-images.githubusercontent.com/51451027/143777025-8bd5d860-7b1f-4694-b2de-232d94b2bdaa.PNG)
 - 👋 Hi, I’m Emmanuel Nti.
 - 👀 I’m a self-motivated, detail-oriented, team player, and ambitious young man fascinated by numbers, enthusiastic about everything data, and passionate to learn new things.
@@ -6,7 +7,7 @@
 - 📊 Eager to help businesses make smarter decisions and grow their business by turning complex datasets into valuable insights.
 - 💞️ Looking forward to my next challenge :) 
 
-
+~~~~
 <!---
 Emmanuel-Nti/Emmanuel-Nti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
