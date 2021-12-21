@@ -6,7 +6,7 @@
 - 📊 Eager to help businesses make smarter decisions and grow their business by turning complex datasets into valuable insights.
 - 💞️ Looking forward to my next challenge :) 
 
-![](https://img.shields.io/badge/Analytics-Businessinsights-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Analytics-Business_insights-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 <!---
 Emmanuel-Nti/Emmanuel-Nti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
