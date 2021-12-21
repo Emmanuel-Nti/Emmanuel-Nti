@@ -6,11 +6,11 @@
 - 📊 Eager to help businesses make smarter decisions and grow their business by turning complex datasets into valuable insights.
 - 💞️ Looking forward to my next challenge :) 
 
-![](https://img.shields.io/badge/Data_Analysis_-_Data_Science-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Research_Abilities_-_Business_Insights-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Python_-_SQL-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/MS_Office_-_Tableau-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Strong_Work_Ethic_-_Detail_Oriented-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Data_Analysis-Data_Science-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Research_Abilities-Business_Insights-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Python-SQL-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/MS_Office-Tableau-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Strong_Work_Ethic-Detail_Oriented-informational?style=flat&color=2bbc8a)
 <!---
 Emmanuel-Nti/Emmanuel-Nti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
