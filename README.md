@@ -7,7 +7,7 @@
 - 💞️ Looking forward to my next challenge :) 
 
 ![](https://img.shields.io/badge/Data_Analysis-Data_Science-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Research-Business_Insight-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Research-Business_Insights-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-SQL-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/MS_Office-Tableau-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Strong_Work_Ethic-Detail_Oriented-informational?style=flat&color=2bbc8a)
