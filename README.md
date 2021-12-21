@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Python-SQL-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/MS_Office-Tableau-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Visualization-Self_Motivated-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Team_Player-Detail_Oriented-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Team_Player-Observant-informational?style=flat&color=2bbc8a)
 <!---
 Emmanuel-Nti/Emmanuel-Nti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
