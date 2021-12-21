@@ -1,6 +1,6 @@
 ![nti](https://user-images.githubusercontent.com/51451027/143777025-8bd5d860-7b1f-4694-b2de-232d94b2bdaa.PNG)
 - 👋 Hi, I’m Emmanuel Nti.
-- 👀 I’m a self-motivated, detail-oriented, team player, and ambitious young man fascinated by numbers, enthusiastic about everything data, and passionate to learn new things.
+- :white_check_mark: I’m a self-motivated, detail-oriented, team player, and ambitious young man fascinated by numbers, enthusiastic about everything data, and passionate to learn new things.
 - 🌱 I have recently graduated from a 9-month intensive Data Analysis training by Yandex. I'm also a master's graduate in Economics with a postgraduate diploma in Applied Data Science and a Chartered Financial Economist.
 - 📈 I have worked as a data assistant, quality control assistant, banker, and revenue officer. I have worked with or have knowledge in software and tools for data projects, visualization, and dashboard creation such as Python, SQL, MS Office, Tableau, Git, Stata, HTML, CSS, EViews, and SAP. 
 - 📊 Eager to help businesses make smarter decisions and grow their business by turning complex datasets into valuable insights.
