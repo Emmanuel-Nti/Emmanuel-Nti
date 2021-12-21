@@ -6,12 +6,12 @@
 - 📊 Eager to help businesses make smarter decisions and grow their business by turning complex datasets into valuable insights.
 - 💞️ Looking forward to my next challenge :) 
 
-![](https://img.shields.io/badge/Data_Analysis-Data_science-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Research-Business_insights-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Data_Analysis-Data_Science-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Research-Business_Insights-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-SQL-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/MS_Office-Tableau-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Visualization-Self_motivated-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Good_Work_Ethics-Detail_oriented-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Visualization-Self_Motivated-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Good_Work_Ethics-Detail_Oriented-informational?style=flat&color=2bbc8a)
 <!---
 Emmanuel-Nti/Emmanuel-Nti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
