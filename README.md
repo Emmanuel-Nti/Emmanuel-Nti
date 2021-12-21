@@ -7,9 +7,10 @@
 - 💞️ Looking forward to my next challenge :) 
 
 ![](https://img.shields.io/badge/Data_Analysis-Business_insights-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Data_science-Python-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/SQL-MS_Office-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tableau-Stata-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Data_science-Research-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-SQL-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MS_Office-Tableau-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Sap-Stata-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Good_Work_Ethics-Detailed_oriented-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 <!---
 Emmanuel-Nti/Emmanuel-Nti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
