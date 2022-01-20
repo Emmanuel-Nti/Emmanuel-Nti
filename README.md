@@ -4,7 +4,7 @@
 - 🌱 I have recently graduated from a 9-month intensive Data Analysis training by Yandex. I'm also a master's graduate in Economics with a postgraduate diploma in Applied Data Science and a Chartered Financial Economist.
 - 📈 I have worked as a data assistant, quality control assistant, banker, and revenue officer. I have worked with or have knowledge in software and tools for data projects, visualization, and dashboard creation such as Python, SQL, MS Office, Tableau, Git, Stata, HTML, CSS, EViews, and SAP. 
 - 📊 Eager to help businesses make smarter decisions and grow their business by turning complex datasets into valuable insights.
-- 👀 Looking forward to my next challenge :) 
+
 
 ![](https://img.shields.io/badge/Data_Analysis-Data_Science-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Research_Abilities-Business_Insights-informational?style=flat&color=2bbc8a)
