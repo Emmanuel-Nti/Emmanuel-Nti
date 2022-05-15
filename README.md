@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Emmanuel Nti.
 - :chart_with_upwards_trend: I'm currently working as a Data Analyst (Campaigns) - Western Europe Rides at [Bolt Technology OÜ](https://bolt.eu//).
 - :white_check_mark: I’m a self-motivated, detail-oriented, team player, and ambitious young man fascinated by numbers, enthusiastic about everything data, and passionate to learn new things. 
-- 🌱 I have completed a 9-month intensive Data Analysis training, I'm a master's graduate in Economics, I hold a postgraduate diploma in Applied Data Science, and a Chartered Financial Economist.
+- 🌱 I'm a master's graduate in Economics with a postgraduate diploma in Applied Data Science, and a Chartered Financial Economist. I have as well completed a 9-month intensive Data Analysis training [👉 my Portfolio](https://emmanuel-nti.github.io/Data-Analysis-Portfolio/).
 - :chart: Having worked as a data analyst, quality control assistant, banker, and revenue officer, coupled with education and training, I have knowledge in software and tools for data projects, visualization, and dashboard creation such as Python, SQL, MS Office, Google Docs Editors, Looker, Tableau, Data Studio, HTML, Git, Stata, CSS, EViews, and SAP. 
 - 📊 Eager to help businesses make smarter decisions and grow by turning complex datasets into valuable insights.
 
