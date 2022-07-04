@@ -1,6 +1,6 @@
 ![nti](https://user-images.githubusercontent.com/51451027/143777025-8bd5d860-7b1f-4694-b2de-232d94b2bdaa.PNG)
 - 👋 Hi, I’m Emmanuel Nti - a detail-oriented, self-motivated, and ambitious young man fascinated by numbers, enthusiastic about everything data, and passionate to learn new things. 
-- :chart_with_upwards_trend: I'm currently working as a Growth Analyst (Western Europe rides) at [Bolt Technology OÜ](https://bolt.eu//).
+- :chart_with_upwards_trend: I'm currently working as a Growth Analyst - Western Europe rides at [Bolt Technology OÜ](https://bolt.eu//).
 - 🌱 I hold a research-based master’s in Economics, a postgraduate diploma in Applied Data Science, and a Certified Chartered Financial Economist. 
 - 🎯 To gain an in-depth knowledge in data analysis, Emmanuel enrolled and successfully graduated from a 9-month intensive Data Analysis training; click [👉 here](https://emmanuel-nti.github.io/Data-Analysis-Portfolio/) to see my portfolio of projects.
 -  :white_check_mark: Having worked as a growth analyst, data analyst, quality control assistant, banker, and revenue officer, coupled with my education and trainings, I have gained knowledge in software and tools for data projects, visualization, and dashboard creation such as Python, SQL, MS Office, Google Docs Editors, Looker, Tableau, Data Studio, HTML, Git, Stata, CSS, EViews, and SAP. 
