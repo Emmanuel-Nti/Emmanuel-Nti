@@ -1,5 +1,5 @@
 ![nti](https://user-images.githubusercontent.com/51451027/143777025-8bd5d860-7b1f-4694-b2de-232d94b2bdaa.PNG)
-- 👋 Hi, I’m Emmanuel Nti - I 'have no special talents', I am 'only passionately curious' ~ enthusiastic about everything data, detail-oriented, and willing to learn new things.
+- 👋 Hi, I’m Emmanuel Nti - I "have no special talents", I am "only passionately curious" ~ enthusiastic about everything data, detail-oriented, and willing to learn new things.
 - :chart_with_upwards_trend: I'm currently working as a Growth Analyst - Western Europe rides at [Bolt Technology OÜ](https://bolt.eu//).
 - 🌱 I hold a research-based master’s in Economics, a postgraduate diploma in Applied Data Science, and a Certified Chartered Financial Economist. 
 - 🎯 To gain an in-depth knowledge in data analysis, Emmanuel enrolled and successfully graduated from a 9-month intensive Data Analysis training; click [👉 here](https://emmanuel-nti.github.io/Data-Analysis-Portfolio/) to see my portfolio of projects.
