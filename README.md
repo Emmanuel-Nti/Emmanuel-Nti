@@ -1,5 +1,5 @@
 ![nti](https://user-images.githubusercontent.com/51451027/143777025-8bd5d860-7b1f-4694-b2de-232d94b2bdaa.PNG)
-- 👋 Hi, I’m Emmanuel Nti - I have 1.7+ years of experience in Data Analytics, 5+ years of experience in Banking, Quality Control, Taxation, and Civil Service volunteering. 
+- 👋 Hi, I’m Emmanuel Nti - I have 1.7+ years of experience in Data Analytics, 4+ years of experience in Banking, Quality Control, Taxation, and Civil Service volunteering. 
 - :chart_with_upwards_trend: I'm currently working as a Growth Analyst at [Bolt Technology OÜ](https://bolt.eu//).
 - 🌱 I hold a research-based master’s in Economics, a postgraduate diploma in Applied Data Science, and a Certified Chartered Financial Economist. 
 - 🎯 To gain an in-depth knowledge in data analysis, Emmanuel enrolled and successfully graduated from a 9-month intensive Data Analysis training; click [👉 here](https://emmanuel-nti.github.io/Data-Analysis-Portfolio/) to see my portfolio of projects.
