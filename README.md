@@ -4,7 +4,7 @@
 - 🌱 I hold a research-based master’s in Economics, a postgraduate diploma in Applied Data Science, and a Certified Chartered Financial Economist. 
 - 🎯 To gain an in-depth knowledge in data analysis, Emmanuel enrolled and successfully graduated from a 9-month intensive Data Analysis training; click [👉 here](https://emmanuel-nti.github.io/Data-Analysis-Portfolio/) to see my portfolio of projects.
 - 📊 From my diverse experiences, education and trainings, I have gained Knowledge in software, platforms, and tools for data projects, visualisation, and dashboard creation such as Python, SQL, MS Office, Google Docs Editors, Tableau, Data Studio, Looker, Git, HTML, CSS, SAP, EViews, Stata, Confluence, Amazon Redshift, Databricks, etc.  
-- 📈 Passionate to learn new things, I always act as an onwer in my roles, prefers to go for a walk, play or watch soccer in my free time, and eager to help businesses make smarter decisions and grow by turning complex datasets into valuable insights. 
+- 📈 Passionate to learn new things, I always act as an owner in my roles, prefers to go for a walk, play or watch soccer in my free time, and eager to help businesses make smarter decisions and grow by turning complex datasets into valuable insights. 
 
 ![](https://img.shields.io/badge/Data_Analysis-Data_Science-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Research_Abilities-Business_Insights-informational?style=flat&color=2bbc8a)
