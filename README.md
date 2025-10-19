@@ -1,6 +1,6 @@
 ![nti](https://user-images.githubusercontent.com/51451027/143777025-8bd5d860-7b1f-4694-b2de-232d94b2bdaa.PNG)
 - 👋 Hi there, Emmanuel here 😀
-- 💼 He has over four years of experience in analytics, finance, and banking, helping to drive business growth with data-driven decisions.
+- 💼 He has over 6+ years of experience in analytics, finance, and banking, helping to drive business growth with data-driven decisions.
 - 🌱 Emmanuel holds a research-based master’s in Economics, a postgraduate diploma in Applied Data Science, a diploma in Data Analysis, and a Certified Chartered Financial Economist. 
 - 📊 From his diverse experiences, education, and training, he has gained Knowledge in software, platforms, and tools for data projects, visualization, and reporting such as Python, SQL, Google Sheets, Excel, Tableau, Looker Studio, Looker, Google Analytics, Power BI, Git, Stata, Amazon Redshift, Databricks, etc  
 - 🎯 Please click [👉 here](https://emmanuel-nti.github.io/Data-Analysis-Portfolio/) to see my portfolio of projects.
