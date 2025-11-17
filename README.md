@@ -1,4 +1,10 @@
-![nti](https://user-images.githubusercontent.com/51451027/143777025-8bd5d860-7b1f-4694-b2de-232d94b2bdaa.PNG)
+<p align="center">
+  <img 
+     src="https://github.com/Emmanuel-Nti/Data-Analysis-Portfolio/raw/c15b916385238c65952115852d3739f11944dee6/docs/image/cover.jpg"
+     width="1280"
+     height="550"
+  >
+</p>
 - 👋 Hi there, Emmanuel here 😀
 - 💼 He has over 6 years of experience in analytics, finance, and banking, helping to drive business growth with data-driven decisions.
 - 🌱 Emmanuel holds a research-based master’s in Economics, a postgraduate diploma in Applied Data Science, a diploma in Data Analysis, and a Certified Chartered Financial Economist. 
