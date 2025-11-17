@@ -5,6 +5,7 @@
      height="550"
   >
 </p>
+
 - 👋 Hi there, Emmanuel here 😀
 - 💼 He has over 6 years of experience in analytics, finance, and banking, helping to drive business growth with data-driven decisions.
 - 🌱 Emmanuel holds a research-based master’s in Economics, a postgraduate diploma in Applied Data Science, a diploma in Data Analysis, and a Certified Chartered Financial Economist. 
