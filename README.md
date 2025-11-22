@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-     src="https://github.com/Emmanuel-Nti/Data-Analysis-Portfolio/raw/c15b916385238c65952115852d3739f11944dee6/docs/image/Data Analysis.png"
+     src="https://github.com/Emmanuel-Nti/Data-Analysis-Portfolio/raw/c15b916385238c65952115852d3739f11944dee6/docs/image/Data_analysis.png"
      width="1280"
      height="550"
   >
