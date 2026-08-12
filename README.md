@@ -14,9 +14,9 @@
   
 - 🎯 Please click [👉 here](https://emmanuel-nti.github.io/Data-Analysis-Portfolio/) to see my portfolio of projects!
 
-![](https://img.shields.io/badge/Pricing_Analytics-Marketplace_Analytics-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Experimentation-A%2FB_Testing-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Funnel_%26_Cohort_Analysis-Behavioral_Analytics-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Pricing_Analytics-Marketplace_Analytics-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Statistical_Modeling-Data_Modeling-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-SQL-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/dbt-Snowflake-informational?style=flat&color=2bbc8a)
